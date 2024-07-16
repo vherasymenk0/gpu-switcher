@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GPU Switcher
+Comment=Switch between integrated and discrete GPU
+Exec=/path-to-folder/gpu_switcher.sh
+Icon=/path-to-folder/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;
